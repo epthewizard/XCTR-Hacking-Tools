@@ -35,6 +35,7 @@ class bcolors:
     CVIOLET = '\33[35m'
     CBEIGE = '\33[36m'
     CWHITE = '\33[37m'
+    GREEN = '\033[38m'
 
 
 def keyboardInterruptHandler(signal, frame):
